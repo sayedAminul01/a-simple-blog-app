@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1653227542470",
+        "title": "This is my first post in my blog",
+        "content": "This is the content for my blog\r\nwith a picture to understand better for the post topic.",
+        "post_image": "uploads/post-image-1653227542453.jpeg",
+        "added_date": "1653227542470"
+    },
+    {
+        "id": "1653223431322",
+        "title": "kjghkdljgfkldsgfles",
+        "content": "jfgl;fgsjk;fkl;sfgjk;l",
+        "post_image": "uploads/post-image-1653223431313.png",
+        "added_date": "1653223431322"
+    },
+    {
+        "id": "1653223083930",
+        "title": "post",
+        "content": "this is content",
+        "post_image": "uploads/post-image-1653223083907.jpeg",
+        "added_date": "1653223083930"
+    },
+    {
+        "id": "1653217621539",
+        "title": "",
+        "content": "",
+        "post_image": "uploads/post-image-1653217621519.jpeg",
+        "added_date": "1653217621539"
+    },
+    {
+        "id": "1232354557443",
+        "title": "web scriping know it expore it ",
+        "content": "Know all about web scriping. how its work. where to explore it. and more need to know Lin",
+        "post_image": "uploads/d2.jpg",
+        "added_date": "15254588525"
+    },
+    {
+        "id": "124545354557443",
+        "title": "All about apis how it works",
+        "content": "Know all about apis and human make profit from it. what is the ways to make profit from it. Know all the necessary details about it.",
+        "post_image": "uploads/d4.jpg",
+        "added_date": "435345538525"
+    },
+    {
+        "id": "1245453354557443",
+        "title": "What is  devops where to find it all the details know it as much as posible.",
+        "content": "Learn it found one source cwh he told everything all about it and complete it as soon as possible. you have short time in life. Lin move faster than before. Move now.",
+        "post_image": "uploads/d5.jpg",
+        "added_date": "157468698525"
+    },
+    {
+        "id": "1245453541557443",
+        "title": "Freelancing is the another way to go.",
+        "content": "Start it with content writing first from medium make as much as possible. it make you expert. Write all about your journy with as a techy.",
+        "post_image": "uploads/d6.jpg",
+        "added_date": "1574645646565"
+    },
+    {
+        "id": "12454535455547443",
+        "title": "Follow its Relevel from tele all the major details available there you need to follow that rules only",
+        "content": "Some of the important details are available there you saved some more things there. So you just need to follow those things properly. No time to left.",
+        "post_image": "uploads/dd.jpg",
+        "added_date": "1574645646565"
+    },
+    {
+        "id": "This is title",
+        "title": "Hey there what's going on",
+        "content": "It's the time to go there. Hey can you here me Yahh Baby.",
+        "post_image": "uploads/ddd.jpg",
+        "added_date": "1574645646565"
+    }
+]
